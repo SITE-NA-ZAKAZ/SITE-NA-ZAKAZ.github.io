@@ -1,0 +1,1056 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1562702353057">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4118914444" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="landing--фотоa-after-before-1.png" crc="3963201433" seo="true" mt="1498805772000"/>
+    <file name="для-landing-сайта-bussines-(before---after-slider)-2.png" crc="4252081864" seo="true" mt="1498805816000"/>
+    <file name="mobile-1.png" crc="267211074" seo="true" mt="1559692757000"/>
+    <file name="mobile-2.png" crc="3802391686" seo="true" mt="1559692729000"/>
+    <file name="прайс-от-15-июня-2019--с.pdf" crc="203193766" seo="true" mt="1562704336000"/>
+    <file name="прайс-от-15-июня-2019--d.pdf" crc="4239925317" seo="true" mt="1562705395000"/>
+    <file name="прайс-от-15-июня-2019--e.pdf" crc="36871948" seo="true" mt="1562706148000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
+    <file name="u5352-7.png" crc="4030309258" ref="phone>index"/>
+    <file name="u5352-7_2x.png" crc="32279029" ref="phone>index"/>
+    <file name="параллелограмм.png" crc="53742367" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="параллелограмм_2x.png" crc="4283554233" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marty.gif" crc="434718329" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="price325x207.jpg" crc="4013968629" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="price325x207_2x.jpg" crc="367615846" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="оригинальные сайты 1.jpg" crc="393513547" seo="true" ref="phone>index">
+      <caption webpage="index" alt="купить официальный сайт&#x9;  купить сайт&#x9;  дешевый сайт&#x9;  заказать сайт&#x9;  создавать сайт&#x9;  сайт создание&#x9;  landing&#x9;  конструктор сайтов&#x9;  заказать "/>
+    </file>
+    <file name="оформление сайта 1325x204.jpg" crc="425520276" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7324x209.png" crc="3791291274" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7324x209_2x.png" crc="3843665607" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="загрузка 08.gif" crc="9798183" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="загрузка 08_2x.gif" crc="9798183" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шестерня-2.gif" crc="104334162" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шестерня-2_2x.gif" crc="104334162" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="эскиз компьютер компьютер телефон 1288x249.jpg" crc="4210535190" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="эскиз компьютер компьютер телефон 1288x249_2x.jpg" crc="3948333370" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="замок 539x40.jpg" crc="4108140783" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="замок 539x40_2x.jpg" crc="3998597463" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="аниме с подписями .gif" crc="145240404" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="аниме с подписями _2x.gif" crc="145240404" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pdf значок 354x54.jpg" crc="468901443" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pdf значок 354x54_2x.jpg" crc="4138114726" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1325x245.png" crc="4217871599" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1325x245_2x.png" crc="410206124" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="2325x245.png" crc="4135166428" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2325x245_2x.png" crc="307160167" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4325x245.png" crc="377884647" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4325x245_2x.png" crc="3930711647" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5325x245.png" crc="426682760" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5325x245_2x.png" crc="94880038" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6325x245.jpg" crc="3775863063" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6325x245_2x.jpg" crc="3846600590" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31325x245.jpg" crc="3973906992" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31325x245_2x.jpg" crc="4050960947" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3325x245.jpg" crc="297364159" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3325x245_2x.jpg" crc="3763700008" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4325x245.jpg" crc="297500422" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4325x245_2x.jpg" crc="338829779" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5325x245.jpg" crc="327686576" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5325x245_2x.jpg" crc="4291214422" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6325x2452.jpg" crc="3920114169" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6325x245_2x2.jpg" crc="3899914278" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7325x245.jpg" crc="170568844" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7325x245_2x.jpg" crc="4123790276" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8325x245.jpg" crc="203466249" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8325x245_2x.jpg" crc="3807501455" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9325x245.jpg" crc="317807856" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9325x245_2x.jpg" crc="3929108023" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10325x245.jpg" crc="4184475204" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10325x245_2x.jpg" crc="3774159325" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12325x245.jpg" crc="314113912" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12325x245_2x.jpg" crc="333847063" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13325x245.jpg" crc="350564144" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13325x245_2x.jpg" crc="3893476621" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без-имени-1325x245.jpg" crc="214004258" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без-имени-1325x245_2x.jpg" crc="3861604429" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11325x245.jpg" crc="98447018" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11325x245_2x.jpg" crc="3805535724" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30325x245.png" crc="3777166306" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30325x245_2x.png" crc="4031837806" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23325x245.png" crc="3982864131" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23325x245_2x.png" crc="4153856962" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (1)325x245.jpg" crc="4010853978" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (1)325x245_2x.jpg" crc="326213372" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (2)325x245.jpg" crc="4280379798" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (2)325x245_2x.jpg" crc="106391286" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (3)325x245.jpg" crc="4118277273" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (3)325x245_2x.jpg" crc="514553433" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (4)325x245.jpg" crc="4287583296" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (4)325x245_2x.jpg" crc="4137819522" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (5)325x245.jpg" crc="4074953315" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (5)325x245_2x.jpg" crc="207362065" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (6)325x245.jpg" crc="3900429515" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (6)325x245_2x.jpg" crc="4105654533" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (7)325x245.jpg" crc="3893530226" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (7)325x245_2x.jpg" crc="3945293864" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (8)325x245.jpg" crc="140025764" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (8)325x245_2x.jpg" crc="3919624669" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29325x245.png" crc="3976561049" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29325x245_2x.png" crc="493037148" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="27325x245.png" crc="4214174642" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="27325x245_2x.png" crc="350949389" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28325x245.png" crc="4041755547" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28325x245_2x.png" crc="414926635" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14325x245.jpg" crc="251509211" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14325x245_2x.jpg" crc="127092210" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11325x245.png" crc="306836706" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11325x245_2x.png" crc="319807530" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13325x245.png" crc="380372664" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13325x245_2x.png" crc="141648337" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15325x245.png" crc="3954534727" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15325x245_2x.png" crc="424438480" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16325x245.png" crc="443910031" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16325x245_2x.png" crc="3891405114" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17325x245.png" crc="3796735363" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17325x245_2x.png" crc="204535721" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="perfomance 4.png" crc="3766097650" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perfomance 4_2x.png" crc="148130057" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="изображение-для-моего-landing---округлость-1344x186.png" crc="257847843" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="изображение-для-моего-landing---округлость-1344x186_2x.png" crc="43819413" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо 394x86.png" crc="258229551" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо 394x86_2x.png" crc="258229551" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master 278x46.png" crc="283321483" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master 278x46_2x.png" crc="358365659" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visa 3.png" crc="3930421202" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visa 3_2x.png" crc="3973089185" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="themes-list188x156.png" crc="307659957" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="themes-list188x156_2x.png" crc="4225853189" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="загрузка 19.gif" crc="54971564" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5403.png" crc="527972366" ref="phone>index"/>
+    <file name="u5403_2x.png" crc="3785542664" ref="phone>index"/>
+    <file name="u5403-r.png" crc="3961784252" ref="phone>index"/>
+    <file name="u5403-r_2x.png" crc="3940372983" ref="phone>index"/>
+    <file name="загрузка 22.gif" crc="4260684896" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master 4.jpg" crc="4048496769" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master 4_2x.jpg" crc="4062818694" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5416.png" crc="4249034072" ref="phone>index"/>
+    <file name="u5416_2x.png" crc="41868737" ref="phone>index"/>
+    <file name="u5416-r.png" crc="4005258471" ref="phone>index"/>
+    <file name="u5416-r_2x.png" crc="21603391" ref="phone>index"/>
+    <file name="u5418.png" crc="3815818558" ref="phone>index"/>
+    <file name="u5418_2x.png" crc="3977728775" ref="phone>index"/>
+    <file name="u5418-r.png" crc="448098077" ref="phone>index"/>
+    <file name="u5418-r_2x.png" crc="230101682" ref="phone>index"/>
+    <file name="u5420.png" crc="4275148364" ref="phone>index"/>
+    <file name="u5420_2x.png" crc="306971371" ref="phone>index"/>
+    <file name="u5420-r.png" crc="264687819" ref="phone>index"/>
+    <file name="u5420-r_2x.png" crc="4233583473" ref="phone>index"/>
+    <file name="u5422.png" crc="244490196" ref="phone>index"/>
+    <file name="u5422_2x.png" crc="272957936" ref="phone>index"/>
+    <file name="u5422-r.png" crc="465975750" ref="phone>index"/>
+    <file name="u5422-r_2x.png" crc="374451275" ref="phone>index"/>
+    <file name="u5424.png" crc="3922288914" ref="phone>index"/>
+    <file name="u5424_2x.png" crc="257418191" ref="phone>index"/>
+    <file name="u5424-r.png" crc="3812470625" ref="phone>index"/>
+    <file name="u5424-r_2x.png" crc="353474723" ref="phone>index"/>
+    <file name="замок 553x53.jpg" crc="4192398492" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="замок 553x53_2x.jpg" crc="3935600037" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u54032.png" crc="4061224753" ref="phone>index"/>
+    <file name="u5403_2x2.png" crc="4041211910" ref="phone>index"/>
+    <file name="u5403-r2.png" crc="369474222" ref="phone>index"/>
+    <file name="u5403-r_2x2.png" crc="4165680433" ref="phone>index"/>
+    <file name="price330x232.jpg" crc="4091004497" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="price330x232_2x.jpg" crc="40848207" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="оригинальные сайты 1317x204.jpg" crc="3891397444" seo="true" ref="phone>index">
+      <caption webpage="index" alt="купить официальный сайт&#x9;  купить сайт&#x9;  дешевый сайт&#x9;  заказать сайт&#x9;  создавать сайт&#x9;  сайт создание&#x9;  landing&#x9;  конструктор сайтов&#x9;  заказать "/>
+    </file>
+    <file name="оформление сайта 1325x238.jpg" crc="425520276" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7327x211.png" crc="3808153522" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7327x211_2x.png" crc="446000958" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5352-72.png" crc="3807465975" ref="phone>index"/>
+    <file name="u5352-7_2x2.png" crc="359938312" ref="phone>index"/>
+    <file name="u54162.png" crc="4151813484" ref="phone>index"/>
+    <file name="u5416_2x2.png" crc="4118444766" ref="phone>index"/>
+    <file name="u5416-r2.png" crc="162604582" ref="phone>index"/>
+    <file name="u5416-r_2x2.png" crc="59628931" ref="phone>index"/>
+    <file name="u54182.png" crc="4093853689" ref="phone>index"/>
+    <file name="u5418_2x2.png" crc="4085687857" ref="phone>index"/>
+    <file name="u5418-r2.png" crc="3776467460" ref="phone>index"/>
+    <file name="u5418-r_2x2.png" crc="4037688678" ref="phone>index"/>
+    <file name="u54202.png" crc="3797518078" ref="phone>index"/>
+    <file name="u5420_2x2.png" crc="3791866876" ref="phone>index"/>
+    <file name="u5420-r2.png" crc="4293520936" ref="phone>index"/>
+    <file name="u5420-r_2x2.png" crc="3924350654" ref="phone>index"/>
+    <file name="u54222.png" crc="353839117" ref="phone>index"/>
+    <file name="u5422_2x2.png" crc="3939046588" ref="phone>index"/>
+    <file name="u5422-r2.png" crc="4113188758" ref="phone>index"/>
+    <file name="u5422-r_2x2.png" crc="4243738031" ref="phone>index"/>
+    <file name="u54242.png" crc="421881033" ref="phone>index"/>
+    <file name="u5424_2x2.png" crc="3995102956" ref="phone>index"/>
+    <file name="u5424-r2.png" crc="443455750" ref="phone>index"/>
+    <file name="u5424-r_2x2.png" crc="174568323" ref="phone>index"/>
+    <file name="visa 373x45.png" crc="462071712" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visa 373x45_2x.png" crc="3973089185" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master 459x59.jpg" crc="3801859125" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master 459x59_2x.jpg" crc="453947285" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1284x215.png" crc="393488665" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1284x215_2x.png" crc="4113519256" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2284x215.png" crc="3892202830" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2284x215_2x.png" crc="3760626465" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4284x215.png" crc="4175469443" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4284x215_2x.png" crc="4114735579" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5284x215.png" crc="3993739021" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5284x215_2x.png" crc="91768846" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6284x215.jpg" crc="3855075410" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6284x215_2x.jpg" crc="4209177786" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31284x215.jpg" crc="232354229" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31284x215_2x.jpg" crc="244352288" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3284x215.jpg" crc="41638880" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3284x215_2x.jpg" crc="202111919" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4284x215.jpg" crc="3785205244" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4284x215_2x.jpg" crc="493527557" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5284x215.jpg" crc="4124591650" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5284x215_2x.jpg" crc="320788352" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6284x2152.jpg" crc="342942629" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6284x215_2x2.jpg" crc="4011506795" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7284x215.jpg" crc="3868967804" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7284x215_2x.jpg" crc="4175258988" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8284x215.jpg" crc="4197451580" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8284x215_2x.jpg" crc="237623997" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9284x215.jpg" crc="417332121" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9284x215_2x.jpg" crc="3828165438" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10284x215.jpg" crc="348951242" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10284x215_2x.jpg" crc="484366455" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12284x215.jpg" crc="4089325253" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12284x215_2x.jpg" crc="343796490" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13284x215.jpg" crc="373354547" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13284x215_2x.jpg" crc="4282083311" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без-имени-1284x215.jpg" crc="4021952473" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без-имени-1284x215_2x.jpg" crc="297579310" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11284x215.jpg" crc="3936671149" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11284x215_2x.jpg" crc="4230754550" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30284x215.png" crc="240827392" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30284x215_2x.png" crc="3940575842" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23284x215.png" crc="4054928203" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23284x215_2x.png" crc="3897912969" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (1)284x215.jpg" crc="4258649998" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (1)284x215_2x.jpg" crc="3843090881" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (2)284x215.jpg" crc="4216265578" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (2)284x215_2x.jpg" crc="3959060990" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (3)284x215.jpg" crc="3873417580" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (3)284x215_2x.jpg" crc="3779138378" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (4)284x215.jpg" crc="4281608451" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (4)284x215_2x.jpg" crc="410971263" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (5)284x215.jpg" crc="4048311796" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (5)284x215_2x.jpg" crc="201108210" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (6)284x215.jpg" crc="179135789" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (6)284x215_2x.jpg" crc="269923165" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (7)284x215.jpg" crc="3777766992" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (7)284x215_2x.jpg" crc="4272671991" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (8)284x215.jpg" crc="124279323" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (8)284x215_2x.jpg" crc="274752709" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29284x215.png" crc="3990047591" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29284x215_2x.png" crc="3966734002" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="27284x215.png" crc="3945796953" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="27284x215_2x.png" crc="430794206" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28284x215.png" crc="4270678007" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28284x215_2x.png" crc="164366507" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14284x215.jpg" crc="4088800614" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14284x215_2x.jpg" crc="522295352" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11284x215.png" crc="4271237711" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11284x215_2x.png" crc="13483275" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13284x215.png" crc="4247407447" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13284x215_2x.png" crc="84064028" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15284x215.png" crc="4043448355" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15284x215_2x.png" crc="4124529179" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16284x215.png" crc="353417966" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16284x215_2x.png" crc="320588713" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17284x215.png" crc="4176365800" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17284x215_2x.png" crc="4272985703" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u155-5.png" crc="7709308" ref="index"/>
+    <file name="u155-5_2x.png" crc="4121947398" ref="index"/>
+    <file name="шарик.gif" crc="235075892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шарик_2x.gif" crc="235075892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="виджет для погоды оформление 1.png" crc="4181908532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="price.jpg" crc="153946159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7.png" crc="4283586251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="в слайд шоу 7_2x.png" crc="3859349063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="оформление сайта 2.jpg" crc="3982015380" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="оформление сайта 1.jpg" crc="3759520450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="эскиз компьютер компьютер телефон 1.jpg" crc="4266546142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="замок 5.jpg" crc="3859064128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="замок 5_2x.jpg" crc="4120990903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="preloader_1.gif" crc="3821197919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="изображение-для-моего-landing---округлость-1.png" crc="4227929242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="изображение-для-моего-landing---округлость-1_2x.png" crc="3830131709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="themes-list.png" crc="4256133062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="themes-list_2x.png" crc="3797965222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pdf значок 3.jpg" crc="3788184739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pdf значок 3_2x.jpg" crc="3991255774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="4278612811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_2x.png" crc="4039310097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="446162525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_2x.png" crc="208277064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="318306063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4_2x.png" crc="4037953099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.png" crc="4150191279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_2x.png" crc="3838139439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.jpg" crc="327365613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_2x.jpg" crc="3808145135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31.jpg" crc="4008079530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31_2x.jpg" crc="3996637232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="258251400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_2x.jpg" crc="4135425481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="221630228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4_2x.jpg" crc="282287896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4045413568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_2x.jpg" crc="4247348151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="62.jpg" crc="4103702836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_2x2.jpg" crc="3954471589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4289462494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7_2x.jpg" crc="3839199043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.jpg" crc="73150192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8_2x.jpg" crc="39061292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9.jpg" crc="3966026903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9_2x.jpg" crc="3936874748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10.jpg" crc="3762918422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10_2x.jpg" crc="424442589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.jpg" crc="197212431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_2x.jpg" crc="4188834697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13.jpg" crc="4278352843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13_2x.jpg" crc="286158603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без-имени-1.jpg" crc="283295474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без-имени-1_2x.jpg" crc="230251217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11.jpg" crc="4253890999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11_2x.jpg" crc="170872392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30.png" crc="4291539928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30_2x.png" crc="4110497346" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23.png" crc="3918222101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23_2x.png" crc="294603801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (1).jpg" crc="281030216" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (1)_2x.jpg" crc="467263486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (2).jpg" crc="3998964995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (2)_2x.jpg" crc="509993517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (3).jpg" crc="4170322794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (3)_2x.jpg" crc="477975137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (4).jpg" crc="4210861725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (4)_2x.jpg" crc="184501792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (5).jpg" crc="153431013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (5)_2x.jpg" crc="4039858003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (6).jpg" crc="201124221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (6)_2x.jpg" crc="249197142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (7).jpg" crc="4165454616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (7)_2x.jpg" crc="4034413465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (8).jpg" crc="4056623541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a (8)_2x.jpg" crc="3869995870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14.jpg" crc="4128639954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14_2x.jpg" crc="188117241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29.png" crc="498927363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29_2x.png" crc="3799755133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="27.png" crc="4115359125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="27_2x.png" crc="3805366481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28.png" crc="375585929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28_2x.png" crc="3904353138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.png" crc="4500833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8_2x.png" crc="455122137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11.png" crc="292363117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11_2x.png" crc="3989260533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13.png" crc="4177526725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13_2x.png" crc="4071947281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15.png" crc="394363239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15_2x.png" crc="287825195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16.png" crc="166627416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16_2x.png" crc="311497292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17.png" crc="21474874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17_2x.png" crc="4274450151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="телефон 1.png" crc="4007793223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо 3.png" crc="258229551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо 3_2x.png" crc="258229551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо-8.gif" crc="75493757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо-8_2x.gif" crc="75493757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кружок серенький .gif" crc="4119807781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="еда_11.jpg" crc="4061749203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="еда_11_2x.jpg" crc="4115641608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visa 2.jpg" crc="76507793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visa 2_2x.jpg" crc="443942061" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master 2.png" crc="3916277099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master 2_2x.png" crc="4038762532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1013.png" crc="4147075457" ref="index"/>
+    <file name="u1013_2x.png" crc="176276132" ref="index"/>
+    <file name="u1013-r.png" crc="487125187" ref="index"/>
+    <file name="u1013-r_2x.png" crc="4278242838" ref="index"/>
+    <file name="u346.png" crc="3895868138" ref="index"/>
+    <file name="u346_2x.png" crc="140532904" ref="index"/>
+    <file name="u346-r.png" crc="491960626" ref="index"/>
+    <file name="u346-r_2x.png" crc="3830413134" ref="index"/>
+    <file name="u344.png" crc="504375253" ref="index"/>
+    <file name="u344_2x.png" crc="3847617264" ref="index"/>
+    <file name="u344-r.png" crc="4130462751" ref="index"/>
+    <file name="u344-r_2x.png" crc="395488729" ref="index"/>
+    <file name="u340.png" crc="3912808265" ref="index"/>
+    <file name="u340_2x.png" crc="329624868" ref="index"/>
+    <file name="u340-r.png" crc="4093944308" ref="index"/>
+    <file name="u340-r_2x.png" crc="506485613" ref="index"/>
+    <file name="u342.png" crc="4034806357" ref="index"/>
+    <file name="u342_2x.png" crc="129583563" ref="index"/>
+    <file name="u342-r.png" crc="4027260024" ref="index"/>
+    <file name="u342-r_2x.png" crc="93025187" ref="index"/>
+    <file name="u342-m.png" crc="3976269443" ref="index"/>
+    <file name="u342-m_2x.png" crc="4159628213" ref="index"/>
+    <file name="u348.png" crc="409082180" ref="index"/>
+    <file name="u348_2x.png" crc="172611011" ref="index"/>
+    <file name="u348-r.png" crc="477860890" ref="index"/>
+    <file name="u348-r_2x.png" crc="376799914" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="134922844" ref="phone>index"/>
+      <file name="nomq_index.css" crc="166419622" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3885571958" seo="true" mt="1562702299820" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4045308740" seo="true" redirect="true"/>
+</manifest>
